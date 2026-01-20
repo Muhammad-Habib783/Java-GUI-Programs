@@ -19,12 +19,17 @@ Each program demonstrates windows, buttons, forms, menus, and event handling for
 
 ---
 
-## 🔗 Access
+# 🔗 ACCESS
 
-You can either **view the repository online** or **clone it locally**:
+You can either **view the repository online** or **clone it locally** to your computer:
 
-- [View on GitHub](https://github.com/Muhammad-Habib783/Java-GUI-Programs)  
-- Clone with Git:
-  ```bash
-  git clone https://github.com/Muhammad-Habib783/Java-GUI-Programs.git
+### 🌐 View Online
+Click here to explore the repository directly on GitHub:  
+👉 [View on GitHub](https://github.com/Muhammad-Habib783/Java-GUI-Programs)
 
+### 💻 Clone Locally
+If you want to run or edit the programs on your own machine, clone the repo using Git:
+
+```bash
+git clone https://github.com/Muhammad-Habib783/Java-GUI-Programs.git
+cd Java-GUI-Programs
