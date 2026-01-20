@@ -17,7 +17,7 @@ Each program demonstrates windows, buttons, forms, menus, and event handling for
 - **graphic_user_interface.java** – general GUI demonstration  
 - **university_portal.java** – mock university portal interface  
 
----
+--
 
 # 🔗 ACCESS
 
